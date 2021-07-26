@@ -22,7 +22,7 @@
   width:83px;
 }
 .search input{
-  width:300px;
+  width:357px;
   height:36px;
   position: relative;
   top:-98px;
@@ -34,7 +34,7 @@
   margin-left: 10px;
 }  
 .cartimg img{
-  margin-left:278px;
+  margin-left:323px;
   position: relative;
   top:-175px;
   width: 30px;
@@ -49,12 +49,12 @@
   width: 30px;
   position: relative;
   top:-241px;
-  margin-left: 235px;
+  margin-left: 287px;
 }
 .sale img{
   width: 100%;
   position: relative;
-  top:-435px;
+  top:-353px;
   height: 100px;
 }
 .tool{
@@ -111,7 +111,7 @@
   color:#AEADAE;
 }
 .rush img{
-  width:98px;
+  width:118px;
   position: relative;
   top:-155px;
 }
@@ -120,7 +120,7 @@
   justify-content: space-evenly;
 }
 .irres img{
-  width:98px;
+  width:118px;
   position: relative;
   top:-148px;
 }
@@ -175,7 +175,7 @@
   height: 32px;
   padding: 5px 40px;
   border: 1px solid #dbdbdb;
-  margin-left:435px ;
+  margin-left:489px ;
   position: relative;
   top:-174px;
 }
@@ -183,7 +183,7 @@
   color: aliceblue;
   background-color:#2874f0 ;
   height: 40px;
-  margin-left:581px ;
+  margin-left:649px ;
   cursor: pointer;
   padding: -1px 90px;
   border: none;
@@ -337,12 +337,12 @@
   }
   .purple img{
     position: relative;
-    right:96px;
-    height:124px;
+    right:130px;
+    height:140px;
   }
   .view button{
     position: relative;
-    left: 30px;
+    left: 17px;
   }
   .tv img{
     width: 170px;
@@ -360,7 +360,7 @@
     left: -80px;
   }
   .boat img{
-    width: 180px;
+    width: 230px;
     position: relative;
     left: -71px;
   }
@@ -379,17 +379,21 @@
     left: -74px;
     font-size: 19px;
   }
-  .six {
+  .six{
     width: 1020px;
   }
   .irres img{
-    width: 331px;
+    width: 400px;
+    position: relative;
+    right: -130px;
   }
   .rush img{
-    width: 331px;
+    width: 400px;
+    position: relative;
+    right: -130px;
   }
   .offers{
     position: relative;
-    left: 10px;
+    left: 30px;
   }
 }
