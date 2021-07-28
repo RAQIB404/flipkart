@@ -183,7 +183,7 @@
    color: aliceblue;
    background-color:#2874f0 ;
    height: 40px;
-   margin-left:649px ;
+   margin-left:623px ;
    cursor: pointer;
    padding: -1px 90px;
    border: none;
@@ -196,7 +196,7 @@
  .cartimg img{
    position: relative;
    top:-248px;
-   right:-397px;
+   right:-349px;
  }
  .cart button{
    color: aliceblue;
@@ -318,7 +318,7 @@
    }
    .cart button{
      position: relative;
-     right: -200px;
+     right: -242px;
    }
    .cartimg img{
      position: relative;
