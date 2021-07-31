@@ -20,6 +20,7 @@
    position: relative;
    top: -95px;
    width:83px;
+   cursor: pointer;
  }
  .search input{
    width:336px;
@@ -38,24 +39,28 @@
    position: relative;
    top:-175px;
    width: 30px;
+   cursor: pointer;
  }
  .search img{
    width: 25px;
     position: relative;
     top: -170px;
     margin-left: 16px;
+    cursor: pointer;
  }
  .bell img{
    width: 30px;
    position: relative;
    top:-241px;
    margin-left: 287px;
+   cursor: pointer;
  }
  .sale img{
    width: 100%;
    position: relative;
    top:-353px;
    height: 100px;
+   cursor: pointer;
  }
  .tool{
    display: flex;
@@ -66,6 +71,7 @@
  }
  .tool img{
    width:60px;
+   cursor: pointer;
  }
  .more button{
    display: none;
@@ -90,6 +96,7 @@
    height: 75px;
    position: relative;
    top:-186px;
+   cursor: pointer;
  }
  .boat img{
    display: none;
@@ -97,12 +104,13 @@
  .third {
    display: flex;
    justify-content: space-evenly;
-    font-size: 12px;
+   font-size: 12px;
    position: relative ;
    top:-170px;
  }
  .third img{
    width: 90px;
+   cursor: pointer;
  }
  .box4{
    color: green;
@@ -114,6 +122,7 @@
    width:118px;
    position: relative;
    top:-155px;
+   cursor: pointer;
  }
  .rush{
    display: flex;
@@ -123,6 +132,7 @@
    width:118px;
    position: relative;
    top:-148px;
+   cursor: pointer;
  }
  .irres{
    display: flex;
@@ -134,6 +144,7 @@
    margin-top:38px;
    position: relative;
    right:-17px;
+   cursor: pointer;
  }
  .blue{
    height:63px;
@@ -141,6 +152,7 @@
  .bell img{
    position: relative;
    right: 10px;
+   cursor: pointer;
  }
  .boatmobile img{
    display: none;
@@ -259,6 +271,7 @@
    top:33px;
    font-family: 'Roboto', sans-serif;
    left: 44px;
+   cursor: pointer;
  }
  .tv1
  {
@@ -306,6 +319,7 @@
    .flipkart img{
      position: relative;
      right:-104px;
+     cursor: pointer;
    }
    .search input{
      position: relative;
@@ -315,10 +329,12 @@
    .search img{
      position: relative;
      right:-213px;
+     cursor: pointer;
    }
    .cart button{
      position: relative;
      right: -242px;
+     cursor: pointer;
    }
    .cartimg img{
      position: relative;
@@ -327,6 +343,7 @@
    .more button{
      position: relative;
      right: -200px;
+     cursor: pointer;
    }
    .login button{
      position: relative;
